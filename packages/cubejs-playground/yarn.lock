@@ -1063,10 +1063,10 @@
   resolved "https://registry.yarnpkg.com/@csstools/convert-colors/-/convert-colors-1.4.0.tgz#ad495dc41b12e75d588c6db8b9834f08fa131eb7"
   integrity sha512-5a6wqoJV/xEdbRNKVo6I4hO3VjyDq//8q2f9I6PBAvMesJHFauXDorcNCsr9RzvsZnaWi5NYCcfyqP1QeFHFbw==
 
-"@cubejs-client/core@^0.9.12":
-  version "0.9.12"
-  resolved "https://registry.yarnpkg.com/@cubejs-client/core/-/core-0.9.12.tgz#d8aea508afd6b26d73b2543ab381c5ccbe838d24"
-  integrity sha512-uTl8nFO1pKEQazPadcmjTCiV2FqKMqrzhc5FynoyCb2nmJqgpM45uKHKW3Q8qYKumm2Dy5F/OMu7+YlySggjWg==
+"@cubejs-client/core@^0.10.16":
+  version "0.10.61"
+  resolved "https://registry.yarnpkg.com/@cubejs-client/core/-/core-0.10.61.tgz#98d64a195e6b7363b223aa935f29194fc0f28fd7"
+  integrity sha512-yI2OT5f6XUDPhpRsMeFVegPgN2CMDoncpzJUedanqcGZEhzlcv+kGPOIUFAMrCZz0cQ2On9vj7VeRsDfaLfg1A==
   dependencies:
     "@babel/runtime" "^7.1.2"
     core-js "^2.5.3"
@@ -1075,16 +1075,14 @@
     moment-range "^4.0.1"
     ramda "^0.25.0"
 
-"@cubejs-client/react@^0.9.0":
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/@cubejs-client/react/-/react-0.9.0.tgz#89fde5e3b72be7a1bda352811f2944267570fbc4"
-  integrity sha512-ZzXkhG3Pqs1vPnQZV3X8FOI2jQ6cwt85WY+vMp6va2X8NdcYXQq+sEBEpza50G7pCGL+ROHOl1g32BJtYeEk+Q==
+"@cubejs-client/react@^0.10.16":
+  version "0.10.61"
+  resolved "https://registry.yarnpkg.com/@cubejs-client/react/-/react-0.10.61.tgz#bbd9b5860b95c7e0ecf5e6f8dd0ca651fd040efc"
+  integrity sha512-5vaGhEqBNOijSHXcb81RzdHBNWk4I3HWyp0Wbd+Hv+dpB3Dx8m/AeG4omPEFQGAqEMgz2DbvNifC5fF6ph8j8Q==
   dependencies:
     "@babel/runtime" "^7.1.2"
     core-js "^2.5.3"
-    prop-types "^15.6.2"
     ramda "^0.25.0"
-    react "^16.5.2"
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
@@ -5550,9 +5548,9 @@ inherits@2.0.1:
   integrity sha1-sX0I0ya0Qj5Wjv9xn5GwscvfafE=
 
 ini@^1.3.5, ini@~1.3.0:
-  version "1.3.5"
-  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.5.tgz#eee25f56db1c9ec6085e0c22778083f596abf927"
-  integrity sha512-RZY5huIKCMRWDUqZlEi72f/lmXKMvuszcMBduliQ3nnWbx9X/ZBQO7DijMEYS9EhHBb2qacRUMtC7svLwe0lcw==
+  version "1.3.8"
+  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.8.tgz#a29da425b48806f34767a4efce397269af28432c"
+  integrity sha512-JV/yugV2uzW5iMRSiZAyDtQd+nxtUnjeLt0acNdw98kKLrvuRVyB80tsREOE7yvGVgalhZ6RNXCmEHkUKBKxew==
 
 inquirer@6.2.1:
   version "6.2.1"
@@ -9549,7 +9547,7 @@ react-source-render@^2.0.0-beta.6:
     prop-types "^15.6.2"
     react-is "^16.8.1"
 
-react@^16.5.2, react@^16.8.3:
+react@^16.8.3:
   version "16.8.3"
   resolved "https://registry.yarnpkg.com/react/-/react-16.8.3.tgz#c6f988a2ce895375de216edcfaedd6b9a76451d9"
   integrity sha512-3UoSIsEq8yTJuSu0luO1QQWYbgGEILm+eJl2QN/VLDi7hL+EN18M3q3oVZwmVzzBJ3DkM7RMdRwBmZZ+b4IzSA==
