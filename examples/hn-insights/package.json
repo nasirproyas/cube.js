@@ -17,7 +17,7 @@
     "promise-limit": "^2.7.0",
     "promise-retry": "^1.1.1",
     "ramda": "^0.26.1",
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "scrape-it": "^5.1.4"
   }
 }
