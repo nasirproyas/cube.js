@@ -16,7 +16,7 @@
     "@cubejs-client/react": "../../packages/cubejs-react",
     "antd": "^3.9.2",
     "babel-loader": "^8.0.2",
-    "chart.js": "^2.7.2",
+    "chart.js": "^2.9.4",
     "css-loader": "^1.0.0",
     "file-loader": "^2.0.0",
     "prismjs": "^1.15.0",
